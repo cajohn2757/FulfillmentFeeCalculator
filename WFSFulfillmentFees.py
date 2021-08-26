@@ -1,3 +1,7 @@
+#Author: Corey Johnson
+#Date: 2021-08-26
+#Title: Amazon Fulfillment Fee Calculator
+
 import math
 
 print("\nDimensions in Inches and Weights in Pounds\n")

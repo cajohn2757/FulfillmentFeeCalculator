@@ -1,7 +1,11 @@
+#Author: Corey Johnson
+#Date: 2021-08-26
+#Title: Amazon Fulfillment Fee Calculator
+
+
 from tkinter import *
 import math
 
-#Author: Corey Johnson
 
 OPTIONS = [
     "Amazon US",
