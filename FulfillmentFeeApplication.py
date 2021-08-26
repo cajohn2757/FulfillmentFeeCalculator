@@ -1,6 +1,8 @@
 from tkinter import *
 import math
 
+#Author: Corey Johnson
+
 OPTIONS = [
     "Amazon US",
     "Amazon CA",
